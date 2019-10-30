@@ -9,7 +9,7 @@ Installation
 1. Clone repository
 
     ```bash
-    $ git clone https://github.com/greeflas/ITEA-PHP-Adv6_News-Portal news_portal
+    $ git clone https://github.com/alexmazorchuk/itea-news-portal news_portal
     $ cd news_portal
     ```
     
@@ -21,6 +21,11 @@ Installation
     
 3. Run server
 
+    Linux:
     ```bash
     $ symfony serve
     ```
+   Windows:
+   ```cmd
+   "c:\Program Files\Symfony\symfony.exe" serve
+   ```
